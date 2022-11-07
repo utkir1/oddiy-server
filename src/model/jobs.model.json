@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Progammer",
+        "workersId": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Progammer",
+        "workersId": [
+            1
+        ]
+    }
+]
